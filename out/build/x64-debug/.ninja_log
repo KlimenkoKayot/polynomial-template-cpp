@@ -1,3 +1,13 @@
 # ninja log v5
 6	1402	7516527927429302	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
 1404	1761	7516527930837590	polynomial-template-cpp.exe	73a4800688468ffc
+6	1598	7517429502770330	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+21	1060	7517429828191008	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+2	1156	7517434751643972	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+1157	1370	7517434753246140	polynomial-template-cpp.exe	73a4800688468ffc
+22	1206	7517435085087439	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+1207	1403	7517435086640607	polynomial-template-cpp.exe	73a4800688468ffc
+2	1113	7517443166745937	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+1114	1314	7517443168282203	polynomial-template-cpp.exe	73a4800688468ffc
+2	1227	7517452462277805	CMakeFiles/polynomial-template-cpp.dir/polynomial-template-cpp.cpp.obj	27e73497cbefbb93
+1228	1461	7517452464112410	polynomial-template-cpp.exe	73a4800688468ffc

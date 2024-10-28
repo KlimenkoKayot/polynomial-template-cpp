@@ -1,0 +1,3 @@
+C:/code/polynomial-template-cpp/cmake-build-debug/CMakeFiles/polynomial-template-cpp.dir
+C:/code/polynomial-template-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/polynomial-template-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

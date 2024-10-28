@@ -180,15 +180,3 @@ std::ostream& operator << (std::ostream& out, const Polynomial<T>& val) {
 	}
 	return out;
 }
-
-signed main() {
-	Polynomial<int> o;
-	Polynomial<int> a(1);
-	Polynomial<int> c({2, 4, 8});
-	Polynomial<int> b(std::vector<int>{2});
-	std::cout << o << '\n';
-	std::cout << a << '\n';
-	std::cout << b << '\n';
-	std::cout << c << '\n';
-	std::cout << o.Degree() << ' ' << a.Degree() << ' ' << c.Degree() << '\n';
-}
